@@ -13,8 +13,18 @@ Download:
 
 ### Gabriel2
 ![shiva](gabriel2.png)
+
 Gabriel2: Indeed, an actor library, not a framework, written in Rust
 
 Repo: https://github.com/igumnoff/gabriel2
 
 Docs: https://docs.rs/gabriel2
+
+### Parvati
+![shiva](parvati.png)
+
+Parvati: Indeed, an ORM library, not a framework, written in Rust
+
+Repo: https://github.com/igumnoff/parvati
+
+Docs: https://docs.rs/parvati
