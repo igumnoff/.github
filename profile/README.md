@@ -10,6 +10,10 @@ Supported report types:
 - HTML
 - PDF
 
+Repo: https://github.com/igumnoff/metatron
+
+Docs: https://docs.rs/metatron
+
 ### Shiva
 ![shiva](shiva.png)
 - Shiva Library: Implementation in Rust of a parser and generator for documents of any type
