@@ -1,3 +1,14 @@
+### Metatron
+![metatron](metatron.png)
+Metatron library: Implementation in Rust of a report generation
+
+Supported report types:
+
+- Plain text
+- Markdown
+- HTML
+- PDF
+
 ### Shiva
 ![shiva](shiva.png)
 - Shiva Library: Implementation in Rust of a parser and generator for documents of any type
