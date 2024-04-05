@@ -1,5 +1,6 @@
 ### Metatron
 ![metatron](metatron.png)
+
 Metatron library: Implementation in Rust of a report generation
 
 Supported report types:
