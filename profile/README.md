@@ -57,7 +57,7 @@ Repo: https://github.com/igumnoff/gabriel2
 Docs: https://docs.rs/gabriel2
 
 ### Parvati
-![shiva](parvati.png)
+![parvati](parvati.png)
 
 Parvati library: ORM library with no boilerplate code, written in Rust.
 
