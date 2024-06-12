@@ -1,5 +1,5 @@
 ### Metatron
-![metatron](metatron.png)
+![metatron](https://github.com/igumnoff/.github/raw/HEAD/metatron.png)
 
 Metatron library: Implementation in Rust of a report generation
 
@@ -12,10 +12,8 @@ Supported report types:
 
 Repo: https://github.com/igumnoff/metatron
 
-Docs: https://docs.rs/metatron
-
 ### Shiva
-![shiva](shiva.png)
+![shiva](https://github.com/igumnoff/.github/raw/HEAD/shiva.png)
 - Shiva Library: Implementation in Rust of a parser and generator for documents of any type
 - CLI Shiva: Сonverting documents from any format to any
 
@@ -34,10 +32,8 @@ Features:
 
 Repo: https://github.com/igumnoff/shiva
 
-Docs: https://docs.rs/shiva
-
 ### Gabriel2
-![shiva](gabriel2.png)
+![shiva](https://github.com/igumnoff/.github/raw/HEAD/gabriel2.png)
 
 Gabriel2: Indeed, an actor library, not a framework, written in Rust
 
@@ -54,10 +50,8 @@ Features:
 
 Repo: https://github.com/igumnoff/gabriel2
 
-Docs: https://docs.rs/gabriel2
-
 ### Parvati
-![parvati](parvati.png)
+![parvati](https://github.com/igumnoff/.github/raw/HEAD/parvati.png)
 
 Parvati library: ORM library with no boilerplate code, written in Rust.
 
@@ -67,4 +61,3 @@ Parvati library: ORM library with no boilerplate code, written in Rust.
 
 Repo: https://github.com/igumnoff/parvati
 
-Docs: https://docs.rs/parvati
